@@ -19,3 +19,11 @@
 **Tools**: Python, VS Code, Fusion 360; Git; Ms Word; PowerPoint; Linux; Windows, TensorFlow, Sci-kit learn
 
 **Hardware**: Odroid M1 single board computer; Embedded platform design.
+
+<img src = "Images/Picture1.png" >
+<img src = "Images/Picture2.png" width = "250" >
+<img src = "Images/Picture3.png" >
+<img src = "Images/Picture5.png" >
+
+
+
